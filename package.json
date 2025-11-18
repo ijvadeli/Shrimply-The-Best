@@ -1,0 +1,21 @@
+{
+  "name": "shrimply-the-best",
+  "displayName": "Shrimply The Best",
+  "description": "za best in za warudo",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shrimply The Best",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Shrimply The Best-color-theme.json"
+      }
+    ]
+  }
+}
