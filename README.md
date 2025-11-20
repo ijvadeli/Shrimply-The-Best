@@ -6,7 +6,9 @@ My favorite shrimp is the bluebolt shrimp, which is why it's heavily blue focuse
 
 ## Install the theme
 Since i'm not a big fan of giving microsoft my card info, you can install this theme yourself.
-To start using this extension with Visual Studio Code, copy it into the `<user home>/.vscode/extensions` folder and restart Code.
+To start using this extension with Visual Studio Code, go to your extensions tab in vscode, click the 3 dots and select install from vsix. Now go to the folder of this theme and select the vsix file. Congrats, you have installed shrimply the best theme.
+
+The other way to install it is by copying the vsix file into the `<user home>/.vscode/extensions` folder and restart Code.
 
 ## Links to inspiration
 
