@@ -3,6 +3,8 @@
   "displayName": "Shrimply The Best",
   "description": "za best in za warudo",
   "version": "0.0.1",
+  "publisher": "IJvadeli2008",
+  "icon": "images/spellIcon.png",
   "engines": {
     "vscode": "^1.106.1"
   },
