@@ -15,7 +15,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#007bff"
+				"foreground": "#627a94"
 			}
 		},
 		{
@@ -55,7 +55,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#80f4e8"
+				"foreground": "#88e2d9"
 			}
 		},
 		{
