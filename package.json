@@ -1,8 +1,10 @@
 {
   "name": "shrimply-the-best",
   "displayName": "Shrimply The Best",
-  "description": "Open Sources",
-  "version": "0.0.1",
+  "description": "za best in za warudo",
+  "version": "0.0.2",
+  "publisher": "IJvadeli2008",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.106.1"
   },
